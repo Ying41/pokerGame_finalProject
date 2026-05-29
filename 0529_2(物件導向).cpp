@@ -295,7 +295,7 @@ public:
         hwnd_ = CreateWindowExW(
             0,
             CLASS_NAME,
-            L"Win32 API 撲克牌快速反應遊戲",
+            L"1112060 1142006 1142016 1142056 1142059",
             WS_OVERLAPPEDWINDOW,
             CW_USEDEFAULT, CW_USEDEFAULT,
             1200, 700,
