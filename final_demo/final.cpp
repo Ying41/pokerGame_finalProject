@@ -371,7 +371,7 @@ public:
         RegisterClassW(&wc);
 
         hwnd_ = CreateWindowExW(
-            0, CLASS_NAME, L"撲克牌心臟病(單人外掛版)",
+            0, CLASS_NAME, L"第2組:1112060 1142006 1142016 1142056 1142059",
             WS_OVERLAPPEDWINDOW, CW_USEDEFAULT, CW_USEDEFAULT, 1200, 700,
             nullptr, CreateAppMenu(), hInstance_, this
         );
